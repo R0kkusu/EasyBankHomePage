@@ -1,10 +1,10 @@
 # Frontend Mentor - Easybank landing page solution
 
-This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN).
+This is a solution to the [Easybank landing page challenge on Frontend Mentor]
 
 ## Table of contents
 
-- [Frontend Mentor - Easybank landing page solution](#frontend-mentor---easybank-landing-page-solution)
+- [Frontend Mentor - Easybank landing page solution]
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -28,12 +28,6 @@ Users should be able to:
 ![Desktop version](./docs/screen1.png.jpg)
 ![Mobile version](./docs/screen2.png.jpg)
 
-### Links
-
-- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN/hub/responsive-landing-page-using-just-html-and-css-z9vI1edtQ)](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN/hub/responsive-landing-page-using-just-html-and-css-z9vI1edtQ)
-- Live Site URL: [Add live site URL here](https://front-landing-page-easybank.vercel.app/)](https://front-landing-page-easybank.vercel.app/)
-
-## My process
 
 ### Built with
 
@@ -44,5 +38,4 @@ Users should be able to:
 
 ## Author
 
-- Github - [leonardoaugustodev](https://github.com/leonardoaugustodev)
-- Frontend Mentor - [@leonardoaugustodev](https://www.frontendmentor.io/profile/leonardoaugustodev)
+- Github - [R0kkusu](https://github.com/R0kkusu)
